@@ -1,2 +1,2 @@
-# Invasion_game
+# Simle game with pugame library
 Simle game with pugame library
