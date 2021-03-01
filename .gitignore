@@ -1,0 +1,10 @@
+# documentation
+book/
+
+# Environments
+.venv
+venv/
+
+
+#
+.idea/
