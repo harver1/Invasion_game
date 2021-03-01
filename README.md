@@ -1,2 +1,2 @@
-# Simle game with pugame library
-Simle game with pugame library
+# Simle game with pygame library
+Simle game with pygame library
