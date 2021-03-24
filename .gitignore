@@ -1,0 +1,11 @@
+# documentation
+book/
+
+# Environments
+.venv
+venv/
+
+
+#
+.idea/
+__pycache__/
